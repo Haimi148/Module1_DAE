@@ -15,4 +15,6 @@
 
 1. One of the directory has permission set so only I can edit it.
  
-
+Current Path:/Users/student/Project1
+Next Path: /Users/student/Project1/what_do_you_know
+Previuos Path: 
