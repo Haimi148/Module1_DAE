@@ -5,3 +5,8 @@ Hello! I am an 18-year-old high school student. My passion lies in computer scie
 it my major. I am eager to learn more about this field and what it has to offer. I believe that a degree in 
 computer science will provide me with the skills and knowledge necessary for a successful career. I am excited 
 about the future possibilities and can't wait to see what I can accomplish! 
+
+
+Current Path: /Users/student/Project1/who_are_you
+Next Path: /Users/student/Project1/screenshots         
+Previous Path: /Users/student/Project1/what_is_important_to_me
